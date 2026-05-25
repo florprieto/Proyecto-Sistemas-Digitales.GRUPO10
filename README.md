@@ -1,1 +1,14 @@
+# DISEÑO E IMPLEMENTACIÓN DE UN GENERADOR DE PATRONES DE PRUEBA PSEUDOALEATORIOS (PRBS) CONFIGURABLE MEDIANTE TABLA EN ROM Y DECODIFICADOR
 
+**UNIVERSIDAD NACIONAL MAYOR DE SAN MARCOS** 
+*(Universidad del Perú, DECANA DE AMÉRICA)*
+**FACULTAD DE INGENIERÍA ELECTRÓNICA Y ELÉCTRICA** 
+---
+
+* **DOCENTE:** Hernan Villafuerte  
+* **CURSO:** Circuitos Digitales  
+* **INTEGRANTES:** * Carrión Rubio Therry  
+  * Prieto Portal, Flor Ariana  
+  * Terrel Gonzales Jhon
+    
+  Lima-Perú, 2026
